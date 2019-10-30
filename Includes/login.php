@@ -43,7 +43,7 @@
     </form><br>
   </div>
   <div class="col-6">
-        <img src="./img/sport.jpg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
+        <img src="./img/mini.jpg" class="img-fluid rounded mx-auto d-block" alt="Responsive image">
     </div>
 </div>
 </div>

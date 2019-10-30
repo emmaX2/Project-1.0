@@ -7,23 +7,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+      
+    <link rel="stylesheet" href="./css/style.css">
+
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5ca700319b272f00119abdc8&product=social-analytics' async='async'></script>
     <!-- De browser titel met bijbehorende icoon in de style van de website -->
-    <link rel="icon" type="image/ico" href="img/car.png"/>
+    <link rel="icon" type="image/ico" href="img/logo.png"/>
     <title>Rent a Car</title>
 </head>
 <body>
-    <h1>hallo</h1>
-     <!-- navbar -->
-     <?php include("./includes/nav.php"); ?>
-    <!-- banner -->
-    <?php include("./includes/banner.php"); ?>
-<br>
-    <main class="container" id="main">
-      <div class="row">
-        <div class="col-12">
-        <?php include("./includes/pageloader.php"); ?></div>
-      </div>
-    </main>
+
+    <!-- De navbar -->
+     <div class="row">
+     <div class="col-12"> <?php include("./nav.php"); ?>
+     </div>
+     </div>
+
+     <!-- de content -->
+     <div class="row">
+     <div class="col-12"> <?php include("./navigation.php"); ?>
+     </div>
+     </div>
 
     <!-- footer -->
     <?php include("./includes/footer.php"); ?>
