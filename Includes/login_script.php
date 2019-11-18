@@ -1,10 +1,11 @@
 <?php
     include("./connect_db.php");
+    include("./includes/functions.php");
 
     $email = sanitize($_POST["email"]);
     $password = sanitize($_POST["password"]);
 
-    $sql = "SELECT * FROM `user` WHERE `email` = $email";
+    $sql = "SELECT * FROM `user` WHERE `email` = '$email'";
 
     $result = mysqli_query($conn, $sql);
 

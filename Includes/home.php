@@ -1,5 +1,21 @@
+<!-- navbar -->
+<style>
+    #active_home{
+        color: black;
+    }
+</style>
+
 <div class="row">
-<div class="col-4"></div>
+<div class="col-4">
+  <h3>Welkom bij Rent a Car</h3>
+  <br>
+  <p>Rent a Car is specialist in het verhuren van oldtimers als trouwvervoer, voor een begrafenis en voor het gebruik van een oldtimer als promotie doeleinde. Veel klanten gingen jullie al voor. Bekijk ons brede assortiment oldtimers & mogelijkheden.</p>
+
+
+<a class="btn btn-secondary" href="./index.php?content=bruiloft" role="button">Bekijk hier onze trouwauto's</a>
+<a class="btn btn-secondary" href="./index.php?content=begrafenis" role="button">Bekijk hier onze rouwauto's</a>
+</div>
+
 <!-- de carousel -->
 <div class="col-8">
 

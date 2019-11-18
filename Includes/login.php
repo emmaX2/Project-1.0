@@ -1,7 +1,7 @@
 <!-- navbar -->
 <style>
     #active_login{
-        color: white;
+        color: black;
     }
 </style>
 

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       
-    <link rel="stylesheet" href="./css/style.css">
+    <link href="./css/style.css" rel="stylesheet">
 
     <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5ca700319b272f00119abdc8&product=social-analytics' async='async'></script>
     <!-- De browser titel met bijbehorende icoon in de style van de website -->
@@ -33,8 +33,12 @@
      </div>
 
     <!-- footer -->
-    <?php include("./includes/footer.php"); ?>
-
+    <div class="row">
+     <div class="col-12"> <?php include("./footer.php"); ?>
+     </div>
+     </div>
+  
+   
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"
