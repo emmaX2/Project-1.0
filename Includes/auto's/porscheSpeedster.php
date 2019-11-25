@@ -60,7 +60,7 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">verder winkelen</button>
-        <button type="button" class="btn btn-primary">doorgaan naar factuur</button>
+        <a  class="btn btn-secondary" href="index.php?content=factuur">bestel</a>
       </div>
     </div>
   </div>

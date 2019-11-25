@@ -8,7 +8,7 @@
 <!-- site -->
 <div class='row'>
     <div class="col-12">
-        <h1>wachtwoord</h1>
+        <h1>Wachtwoord</h1>
     </div>
         <div class='col-6'>
             <form action="./index.php?content=createpassword_script" method="post">
@@ -29,7 +29,7 @@
         </div>
         <div class='col-6'>
             <!-- Plaatje -->
-            <img src="./img/sport.jpg" class="img-fluid rounded mx-auto d-block" alt="registreer je">
+            <img src="./img/mini.jpg" class="img-fluid rounded mx-auto d-block" alt="registreer je">
         </div>
         <div class='col-6'>
             

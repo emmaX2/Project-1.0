@@ -71,6 +71,10 @@
               <a id="active_home" class="nav-link" href="index.php?content=home">Home</a>
             </li>';
             echo '
+                  <li class="nav-item">
+                  <a id="active_oefen" class="nav-link" href="index.php?content=auto">Onze auto\'s </a>
+                </li>';
+            echo '
               <li class="nav-item">
               <a id="active_login" class="nav-link" href="index.php?content=login">Aanmelden</a>
             </li>';
@@ -82,7 +86,6 @@
           ?>
         </ul>
         </div>
-        </nav>
         <form class="form-inline my-2 my-lg-0">
             <span id="wit" class="nav-link"><?php if (isset($_SESSION['email'])) {echo "Welkom " . $_SESSION ["email"];}?></span>
           </form>
