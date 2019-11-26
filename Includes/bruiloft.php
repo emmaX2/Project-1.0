@@ -11,7 +11,7 @@
       <div class="card-body">
         <h5 class="card-title">Porsche Speedster</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <a class="btn btn-secondary" href="./index.php?content=auto's/porscheSpeedster" role="button">more info</a>
+        <a class="btn btn-secondary" href="./index.php?content=auto's/porscheSpeedster" role="button">Meer informatie</a>
       </div>
     </div>
   </div>
@@ -21,13 +21,13 @@
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="..." class="card-img" alt="...">
+      <img src="./img/mini.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Mini Cooper</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <button type="button" class="btn btn-secondary">Meer info</button>
+        <a class="btn btn-secondary" href="./index.php?content=auto's/mini" role="button">Meer informatie</a>
       </div>
     </div>
   </div>
@@ -40,13 +40,13 @@
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="..." class="card-img" alt="...">
+      <img src="./img/volkswagenbus.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Volkswagenbus</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <button type="button" class="btn btn-secondary">Meer info</button>
+        <a class="btn btn-secondary" href="./index.php?content=auto's/volkswagenbus" role="button">Meer informatie</a>
       </div>
     </div>
   </div>
@@ -56,13 +56,13 @@
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="..." class="card-img" alt="...">
+      <img src="./img/volkswagenkever.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Volkswagenkever</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <button type="button" class="btn btn-secondary">Meer info</button>
+        <a class="btn btn-secondary" href="./index.php?content=auto's/volkswagenkever" role="button">Meer informatie</a>
       </div>
     </div>
   </div>
@@ -75,13 +75,13 @@
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="..." class="card-img" alt="...">
+      <img src="./img/mg-b.jpg" class="card-img" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">MG B Cabriolet</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <button type="button" class="btn btn-secondary">Meer info</button>
+        <a class="btn btn-secondary" href="./index.php?content=auto's/mg-b" role="button">Meer informatie</a>
       </div>
     </div>
   </div>
@@ -97,7 +97,7 @@
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <button type="button" class="btn btn-secondary">Meer info</button>
+        <a class="btn btn-secondary" href="./index.php?content=auto's/porscheSpeedster" role="button">Meer informatie</a>
       </div>
     </div>
   </div>

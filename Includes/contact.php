@@ -1,3 +1,10 @@
+<!-- navbar -->
+<style>
+    #active_contact{
+        color: black;
+    }
+</style>
+
 <div class="row">
 <div class="col-6">
 <article id="text">
@@ -13,7 +20,6 @@
        <br>
        via twitter: @RentaCar <br>
        via instagram: RentaCar <br>
-       via myspace: RentaCar <br>  
        </h6>
    </article>
 
