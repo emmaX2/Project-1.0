@@ -9,7 +9,8 @@
 
 <div class="container">
 <div class="row">
-<!-- registeeren -->
+
+<!-- registreren -->
   <div id="inloggen" class="col-md-6"> 
     <form action="./index.php?content=register" method="post">
       <div class="form-group">
@@ -24,6 +25,7 @@
     </form><br>
   </div>
   <br>
+
   <!-- inloggen -->
   <div id="inloggen" class="col-md-6">
     <form action="./index.php?content=login_script" method="post">

@@ -27,7 +27,7 @@
      </div>
 
      <!-- de content -->
-     <div class="row">
+     <div class="navspot row">
      <div class="col-12"> <?php include("./navigation.php"); ?>
      </div>
      </div>

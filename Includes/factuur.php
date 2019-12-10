@@ -32,7 +32,7 @@ Samaritaanweg 27 <br>
     <div class="col-4">
    <h3>Factuur </h3>
     Factuurcode: F2019001 <br>
-    Factuurdatum: 27-09-2019 <br>
+    Factuurdatum: 10-12-2019 <br>
     Klantnummer: 123456 <br>
     </div>
     <div class="col-4"></div>
@@ -43,28 +43,28 @@ Samaritaanweg 27 <br>
 
 <div class="row">
 <div class="col-6">Omschrijving</div>
-<div class="col-2">Aantal uur</div>
-<div class="col-2">uurtarief</div>
+<div class="col-2">Aantal dagen</div>
+<div class="col-2">dagtarief</div>
 <div class="col-2">extra</div>
 </div>
 <hr>
 <div class="row">
 <div class="col-6">porsche speedster <br>
 <ul>
-  <li>bloemenkrans</li>
-  <li>slinger</li>
+  <li>Bloemenkrans</li>
+  <li>Bumpersticker</li>
 </ul>  
 </div>
-<div class="col-2">4 uur</div>
-<div class="col-2">€60,-</div>
+<div class="col-2">2 dagen</div>
+<div class="col-2">€170,-</div>
 <div class="col-2">
     <br>
-    €75,- <br>
-    €35,- 
+    €45,- <br>
+    €34,95
 </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
 <div class="col-6">Mini Cooper wit <br>
 <ul>
   <li>raamstikker</li>
@@ -78,7 +78,7 @@ Samaritaanweg 27 <br>
     €24,95 <br>
     €12,99 
 </div>
-</div>
+</div> -->
 <hr>
 <br>
 <br>
@@ -93,9 +93,9 @@ Samaritaanweg 27 <br>
 </div>
 <div class="col-4">
 <ul style="list-style-type:none;">
-    <li> €727,94</li>
-    <li> €152,87</li>
-    <li>€880,81</li>
+    <li> € 331,76</li>
+    <li> € 88,19</li>
+    <li> € 419,95</li>
 </ul>
 
 </div>

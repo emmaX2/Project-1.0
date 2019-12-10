@@ -16,33 +16,43 @@
                     Indeling: 2 zitplaatsen voor <br>
                     Gordels: 2 gordels voorin <br>
                 </p>
-               
-          <p>eerste extra optie</p>     
-  <div class="form-group col-3">
-    <select class="custom-select" required>
-      <option value="">geen</option>
-      <option value="1">bloemenkrans</option>
-      <option value="2">vlaggetjes</option>
-      <option value="3">bumperstikker</option>
-      <option value="4">raamstikker</option>
-    </select>
-  </div>
 
-    <p>tweede extra optie</p>
-    <div class="form-group col-3">
-    <select class="custom-select" required>
-      <option value="">geen</option>
-      <option value="1">bloemenkrans</option>
-      <option value="2">vlaggetjes</option>
-      <option value="3">bumperstikker</option>
-      <option value="4">raamstikker</option>
-    </select>
-  </div>
+<div class="row">
+  <p>Extra opties:</p>
+</div>
+<div class="row">
+<form>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">bloemenkrans</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">JustMarriedSlinger</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">bumperstikker</label>
+    </div>
+    <div class="checkbox">
+      <label><input type="checkbox" value="">raamstikker</label>
+    </div>
+  </form>
+</div>       
+
+
+
+<div class="row">
+<form action="/action_page.php">
+Auto huren vanaf:<br>
+<input type="date" name="bday" min="2000-01-02"><br><br>
+Auto huren tot:<br>
+<input type="date" name="bday" min="2000-01-02"><br><br>
+</form>
+</div> 
+
 
   
 <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
- bestel
+ huren
 </button>
 
 <!-- Modal -->
@@ -56,7 +66,7 @@
         </button>
       </div>
       <div class="modal-body">
-        ...
+        <p>Wilt u doorgaan naar bestellen of onze andere auto's nog een keer bekijken?</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">verder winkelen</button>
@@ -93,7 +103,5 @@
             </a>
         </div>
     </div>
-
-
 
 </div>
